@@ -1,0 +1,4 @@
+com/migros/uitest/stepdefinitions/step_definitions.class
+com/migros/uitest/stepdefinitions/CucumberRunner.class
+com/migros/uitest/utils/TestConfig.class
+com/migros/uitest/utils/DriverManager.class
